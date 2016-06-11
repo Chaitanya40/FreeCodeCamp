@@ -1,0 +1,38 @@
+<html>
+  
+  <head>
+    <title>Tribute page for M.S.Swaminathan</title>
+  </head>
+  <body>
+    <div class="jumbotron">
+      <div class="col-xs-12">
+          <h1 class = "text-center">Dr. M.S.Swaminathan</h1>
+          <h2 class = "text-center"><em>The man who was behind India's food security</em></h2>
+          <div class ="thumbnail" >
+            <img src = "https://goo.gl/rmw7qg">
+          <div class="text-center caption">Dr. Swaminathan who changed the way India looked at food secuirty</div>
+        </div>
+     </div>
+      
+    <div class = "col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+      <h3 class="text-center">Here's a time line of Mr.Swaminathan's life:</h3>
+      <ul class="center">
+        <li><strong>1925</strong>-Born to a surgeon M.S.Sambasivan</li>
+        <li><strong>1949–55</strong>-Research on potato (Solanum tuberosum), wheat (Triticum aestivum), rice (Oryza sativa), and jute genetics.</li>
+        <li><strong>1991-95</strong>-Member, Governing Board, Auroville Foundation</li>
+        <li><strong>1990-93</strong>-Founder/President, International Society for Mangrove Ecosystems (ISME)</li>
+        <li><strong>1995-99</strong>chairman, Auroville Foundation</li>
+      </ul>
+    </div>  
+    <blockquote>
+      <p>"For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally."</p>
+      <footer>From WWF's website</footer>
+    </blockquote>
+    <h3 class="text-center">If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/M._S._Swaminathan" target="_blank">Wikipedia entry</a>.</h3>
+  </div>
+    
+  <p class="text-center">Written and coded by<a href="#"> Chaitanya Allu</a> </p>
+    
+  </body>
+  
+</html>
